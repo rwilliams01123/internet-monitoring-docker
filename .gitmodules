@@ -1,0 +1,3 @@
+[submodule "snmp_exporter-docker"]
+	path = snmp_exporter-docker
+	url = https://github.com/rwilliams01123/snmp_exporter-docker.git
